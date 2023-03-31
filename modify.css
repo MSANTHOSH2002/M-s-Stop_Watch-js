@@ -1,0 +1,21 @@
+body
+{
+   background-color:rgb(106, 246, 218); 
+    height: 100%;    
+    position: relative;
+    text-align: center;  
+    padding-top: 5cm;
+} 
+ #mani
+{
+    font-size: 300%;
+}  
+#seconds
+{
+    font-size: 150%;
+    
+}  
+#tens
+{
+    font-size: 150%;
+}
